@@ -15,7 +15,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="outputs/Algoritmos e Organização Desvendando o Notion para Programadores.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
