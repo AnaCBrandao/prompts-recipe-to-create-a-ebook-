@@ -37,7 +37,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a young girl in a programmer room, little smiling and holding a notebook, 3D animation style |
 
 ## ✨ Features
 
