@@ -1,10 +1,9 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="assets/banner.png">
 </p>
 
 <p align="center">
-<a href=""><img src="" alt=""></a>
-<a href="" title="Go to Bash homepage"><img src="" alt=""></a></p>
+<img src="assets/cover.png" alt=""></p>
 
 -------
 
